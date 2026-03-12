@@ -10,6 +10,7 @@ public class Demo1Application {
         SpringApplication.run(Demo1Application.class, args);
         System.out.println("Hello, Git and Maven!");
         System.out.println("This is my first version-controlled project.");
+        System.out.println("This line was added on GitHub.");
     }
 
 }
