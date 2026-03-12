@@ -12,6 +12,7 @@ public class Demo1Application {
         System.out.println("This is my first version-controlled project.");
         System.out.println("This line was added on GitHub.");
         System.out.println("This line was added locally after pull.");
+        System.out.println("Another line from GitHub after local commit.");
     }
 
 }
